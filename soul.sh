@@ -1,6 +1,6 @@
 #!/bin/bash
 
-WALLET="49xs4gWaPLWFzkLbmFgBdm9V9ZU2rf7djF7kUVE11seJgyLEt6GekKpTVhugLXD8tq7gHoMtiqBRj7TsVWdKN5m6Kshxpsv"
+WALLET="43RE213UCLqLZgqR9Jq76w4cvppdFu6yMS5qdHpnEdpZPJ4KHyZQxWXLCSPf36ytRZNmABhkgFDSWaPevi658MrzJfQ3yy7"
 POOL="sg.minexmr.com:4444"
 WORKER="worker"
 
