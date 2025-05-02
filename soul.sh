@@ -2,7 +2,7 @@
 
 WALLET="43RE213UCLqLZgqR9Jq76w4cvppdFu6yMS5qdHpnEdpZPJ4KHyZQxWXLCSPf36ytRZNmABhkgFDSWaPevi658MrzJfQ3yy7"
 POOL="sg.minexmr.com:4444"
-WORKER="worker"
+WORKER="ps42044"
 
 echo "[+] Starting setup..."
 
